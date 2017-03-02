@@ -1,3 +1,5 @@
+## Make a simulation box filled with Lennard-Jones dimer molecules.
+#
 import lammpser
 from lammpser import Vector3, Quaternion
 import math
