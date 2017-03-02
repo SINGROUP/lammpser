@@ -1,3 +1,5 @@
+## Simple example that shows how to create a system and basic dimer molecules.
+
 import lammpser
 from lammpser import Vector3, Quaternion
 import math
