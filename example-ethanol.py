@@ -1,3 +1,6 @@
+## Make a box with some ethanol molecules.
+# All interaction parameters are taken from CHARMM.
+#
 import lammpser
 from lammpser import Vector3, Quaternion
 import math, random
